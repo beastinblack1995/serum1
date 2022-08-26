@@ -16,9 +16,9 @@ important_ingredients_brightning = ['Acetyl Glucosamine','Arbutin','Ascorbic Aci
 
 
 
-df_acne_akmal = pd.read_csv('Anti Acne Serum file Akmal.csv')
-df_aging_akmal = pd.read_csv('Anti aging Serum file Akmal.csv')
-df_brightning_akmal = pd.read_csv('Brightning Serum file Akmal.csv')
+df_acne_akmal = pd.read_csv('Anti Acne Serum file Akmal.csv', encoding = "ISO-8859-1")
+df_aging_akmal = pd.read_csv('Anti aging Serum file Akmal.csv', encoding = "ISO-8859-1")
+df_brightning_akmal = pd.read_csv('Brightning Serum file Akmal.csv', encoding = "ISO-8859-1")
 dir_list_acne = os.listdir('anti_acne_models')
 dir_list_aging = os.listdir('anti_aging_models')
 dir_list_brightning = os.listdir('brightning_models')
@@ -108,8 +108,9 @@ def acne_imp(custtdetails):
     #dic_acne_imp = sorted(dic_acne_imp.items(), key=lambda x:x[1],reverse = True)
     i = None
     
-    dic_acne_supp = {}    
-    for j  in (df_acne_akmal['name']):
+    dic_acne_supp = {} 
+   
+    for j  in (df_acne_akmal['name'].dropna()):
         if j not in important_ingredients_acne:
             j = j.replace('/','_')
             if j[0] == ' ':
@@ -167,7 +168,7 @@ def aging_imp(custtdetails):
     i = None
     
     dic_aging_supp = {}    
-    for j  in (df_aging_akmal['name']):
+    for j  in (df_aging_akmal['name'].dropna()):
         if j not in important_ingredients_aging:
             j = j.replace('/','_')
             if j[0] == ' ':
@@ -227,7 +228,7 @@ def brightning_imp(custtdetails):
     i = None
     
     dic_brightning_supp = {}    
-    for j  in (df_brightning_akmal['name']):
+    for j  in (df_brightning_akmal['name'].dropna()):
         if j not in important_ingredients_brightning:
             j = j.replace('/','_')
             print(j)            
