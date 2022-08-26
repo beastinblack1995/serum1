@@ -12,3 +12,4 @@ joblib
 xlrd
 scikit-learn
 dill
+xgboost
