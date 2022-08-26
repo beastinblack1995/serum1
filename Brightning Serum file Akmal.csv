@@ -1,0 +1,51 @@
+"No,",name,functions,cwg,ewg,Male,Female,White Race,Black Race,Elder Age,Intermediate Age,Young Age,Tropical,Dry,Temperate,Continental,Polar
+1,Acetyl Glucosamine,"antioxidant,moisturising,healing,whitening",0,1,1,1,1,,,1,,,1,,1,
+2,Aloe Vera,"antioxidant,moisturising,soothing,acne_fighting,anti_aging,healing,antiseptic,whitening,good_for_sensitive_skin",0,3,1,,1,1,1,1,,1,1,,1,
+3,Apple Cider Vinegar,"softening,whitening",0,1,,1,,,,,1,,,1,,1
+4,Arbutin,"antioxidant,whitening,good_for_dry_skin",0,1,1,1,1,,,1,,,,1,,
+5,Ascorbic Acid (Vitamin C/Ascorbyl Glucoside/Magnesium Ascorbyl Phosphate/Tetrahexyldecyl Ascorbate/Ascorbyl Tetraisopalmitate),"vitamin,antioxidant,soothing,anti_aging,whitening,uv_protecting,good_for_dry_skin",0,1,1,1,1,,1,1,,,1,,,1
+6,Bearberry,"antioxidant,antiseptic,whitening",0,1,,1,,,,1,,,,1,,
+7,Bisabolol,"soothing,healing,antiseptic,whitening",0,1,,1,1,,,,1,,,1,,
+8,Chamomile,"soothing,acne_fighting,healing,whitening",0,4,1,,,1,,,,1,,,,1
+9,Chrysin,"moisturising,anti_aging,whitening",0,1,,1,1,,1,,,,1,,1,
+10,Citrus Aurantifolia,"softening,whitening",0,2,1,,,,,,,,,1,,
+11,Cranberry,"antioxidant,moisturising,acne_fighting,anti_aging,whitening",0,1,,1,1,,1,1,,1,1,1,1,
+12,Cucumis Melo Cantalupensis Fruit Extract,"moisturising,whitening",0,1,,1,,,1,,,,1,1,1,
+13,Dimethylmethoxy Chromanol,"antioxidant,whitening",0,1,1,,,1,,1,,,,,,
+14,Ferulic Acid,"antioxidant,moisturising,anti_aging,whitening",0,2,1,1,1,,1,1,,,1,,1,
+15,Gallic Acid,"antioxidant,whitening",0,1,1,,,1,,1,,,,1,,
+16,Genistein,"antioxidant,moisturising,acne_fighting,anti_aging,healing,whitening,uv_protecting",0,1,1,1,1,1,1,1,,1,1,1,1,
+17,Ginkgo Biloba,"antioxidant,anti_aging,healing,whitening",0,1,1,1,1,,1,1,,,,1,,
+18,Glutathione,"antioxidant,soothing,healing,whitening",0,1,1,,1,,,1,,,,1,,1
+19,Glycolic Acid,"aha,anti_aging,whitening,good_for_oily_skin,bad_for_sensitive_skin",0,4,1,,,1,1,,,1,,,,1
+20,Hydroquinone,whitening,0,9,1,,,1,,,,1,,,,1
+21,Kojic Acid,"whitening,good_for_dry_skin",0,7,,1,1,,,,,,1,,,
+22,Lactic Acid,"aha,moisturising,acne_fighting,anti_aging,healing,whitening,bad_for_sensitive_skin",0,4,1,1,1,1,1,,,1,1,1,1,
+23,Licorice,"antioxidant,softening,acne_fighting,whitening,good_for_oily_skin",0,1,1,,,1,,1,1,1,,1,,
+24,Matricaria,"antioxidant,softening,soothing,acne_fighting,healing,antiseptic,whitening,uv_protecting,good_for_dry_skin,good_for_sensitive_skin",0,1,,1,1,1,,1,1,1,1,,,1
+25,Morus Alba Bark Extract,"healing,whitening,good_for_dry_skin",0,1,,1,1,,,,1,,,1,,1
+26,Pearl Powder,whitening,0,1,,1,,,,,1,,1,,,1
+27,Phenylethyl Resorcinol,"antioxidant,whitening",0,1,1,,,,,1,,,,1,,
+28,Phytic Acid,"antioxidant,moisturising,whitening",0,1,,1,,,,1,,,1,1,1,
+29,Potassium Azeloyl Diglycinate,"moisturising,anti_aging,whitening, Acne",0,1,1,,,1,1,,,1,1,,1,
+30,Resveratrol,"antioxidant,anti_aging,whitening, Anti-acne",0,1,1,,1,1,1,1,,1,,1,,
+31,Serenoa Serrulata Fruit Extract,"anti_aging,whitening,uv_protecting",0,1,1,,1,,1,,,,1,,,
+32,Sodium Lactate,"moisturising,soothing,whitening",0,3,1,1,,,,,,,1,,1,
+33,Strawberry,"antioxidant,moisturising,softening,anti_aging,antiseptic,whitening",0,1,,1,1,,1,1,1,,1,,1,
+34,Undaria Pinnatifida Extract,"softening,whitening",0,1,,1,,,,,1,,,1,,
+35,Zinc Sulfate,"acne_fighting,healing,antiseptic,whitening,uv_protecting",0,4,1,,,1,,,,1,1,,,1
+36,Hexapeptide-2,whitening/Dark spots,0,1,1,,1,,1,,,,,1,,1
+37,Hexylresorcinol,antiseptic/Whitening,0,1,1,,,,,1,,1,,,,1
+38,Morus Alba Root Extract,whitening,0,1,,1,,,,,1,,,1,,1
+39,Niacinamide,"vitamin,niacinamide,anti_aging,whitening,anti inflammatory",0,1,,1,1,,1,,,1,,1,1,
+40,Panax Ginseng root extract,"antioxidant,anti_aging,healing,whitening",0,1,1,,1,,1,1,,,,1,,
+41,"Tetrapeptide-30,",Anti-inflammatory/Brightning,0,1,,1,,,,,1,1,,1,1,
+42,"Glycine Soja (Soybean) Seed Extrac,","Anti-Aging, Dark Spot Fading, Soothing",0,1,1,1,1,,1,,,,,1,,
+43,Tranexamic Acid,"Dark Spot Fading, Evens Skin Tone, Anti-Aging",0,1,1,,1,,1,,,1,,,,1
+44,"Indian Gooseberry,",Anti-Oxidant/Whitening/Acne,0,1,1,,,1,,1,,1,,1,,
+45,Reishi,Anti-Oxidant/Whitening/Acne,0,1,1,,,1,,1,,,,1,,
+46,Papaya,Moisturizing/Soothing/Anti-oxidant/Anti-Septic/Whitening/healing,0,1,,1,,,,1,,,1,1,1,
+47,Undecylenoyl Phenylalanine,whitening,0,1,,1,,,,1,,1,,,,
+48,"Mulberry,",whitening,0,1,,1,,,,,1,,,1,,
+49,Nasturtium,"Healing,Septic, whitening",0,1,1,,,1,1,,,,,1,,
+50," Undaria Pinnatifida Extract,",Soft/Whitening,0,1,,1,,,,,1,,,1,,
