@@ -16,9 +16,9 @@ important_ingredients_brightning = ['Acetyl Glucosamine','Arbutin','Ascorbic Aci
 
 
 
-df_acne_akmal = pd.read_excel('Anti Acne Serum file Akmal.xlsx')
-df_aging_akmal = pd.read_excel('Anti aging Serum file Akmal.xlsx')
-df_brightning_akmal = pd.read_excel('Brightning Serum file Akmal.xlsx')
+df_acne_akmal = pd.read_csv('Anti Acne Serum file Akmal.csv')
+df_aging_akmal = pd.read_csv('Anti aging Serum file Akmal.csv')
+df_brightning_akmal = pd.read_csv('Brightning Serum file Akmal.csv')
 dir_list_acne = os.listdir('anti_acne_models')
 dir_list_aging = os.listdir('anti_aging_models')
 dir_list_brightning = os.listdir('brightning_models')
