@@ -296,17 +296,17 @@ def predict():
    
    
 
-    if SkinConcerns == 'Acne':
+    if (SkinConcerns == 'Acne') or (SkinConcerns == 'Pores')or (SkinConcerns == 'Redness' ):
         custdetails = {'SkinConcerns':SkinConcerns,'Age':Age,'SkinType':SkinType,'SkinTyone':SkinTone,'Gender':Gender,
                   'Race':Race,'Climate':Climate}
  
         out = acne_imp(custdetails)
-    if SkinConcerns == 'Aging':
+    if (SkinConcerns == 'Aging') or (SkinConcerns == 'Sun damage') or (SkinConcerns == 'Stretch marks'):
         custdetails = {'SkinConcerns':SkinConcerns,'Age':Age,'SkinType':SkinType,'SkinTyone':SkinTone,'Gender':Gender,
                   'Race':Race,'Climate':Climate}
  
         out = aging_imp(custdetails)          
-    if (SkinConcerns != 'Acne') and (SkinConcerns != 'Aging'):
+    if (SkinConcerns == 'Dark circles') and (SkinConcerns == 'Blackheads')   or (SkinConcerns == 'Uneven skin tones')  or (SkinConcerns == 'Dullness'):
         custdetails = {'SkinConcerns':SkinConcerns,'Age':Age,'SkinType':SkinType,'SkinTyone':SkinTone,'Gender':Gender,
                   'Race':Race,'Climate':Climate}
  
