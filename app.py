@@ -306,7 +306,7 @@ def predict():
                   'Race':Race,'Climate':Climate}
  
         out = aging_imp(custdetails)          
-    if (SkinConcerns == 'Dark circles') and (SkinConcerns == 'Blackheads')   or (SkinConcerns == 'Uneven skin tones')  or (SkinConcerns == 'Dullness'):
+    if (SkinConcerns == 'Dark circles') or (SkinConcerns == 'Blackheads')   or (SkinConcerns == 'Uneven skin tones')  or (SkinConcerns == 'Dullness'):
         custdetails = {'SkinConcerns':SkinConcerns,'Age':Age,'SkinType':SkinType,'SkinTyone':SkinTone,'Gender':Gender,
                   'Race':Race,'Climate':Climate}
  
